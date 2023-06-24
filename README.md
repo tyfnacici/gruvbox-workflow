@@ -13,6 +13,6 @@ It looks like this.
 ![](photos/20230625_000741_Ekran_Resmi 2023-06-25 00.07.26.png)
 
 
-* [Wallpapers](gruvbox-workflow/blob/main/wallpapers)
-* [Website Themes](gruvbox-workflow/blob/main/websites)
-* [Application Themes](gruvbox-workflow/blob/main/applications)
+* [Wallpapers](blob/main/wallpapers)
+* [Website Themes](tree/main/websites)
+* [Application Themes](tree/main/applications)
