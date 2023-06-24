@@ -8,11 +8,13 @@ It is a retro groove color scheme for Vim.
 
 It looks like this.
 
-![](photos/20230625_000635_Ekran_Resmi 2023-06-25 00.05.26.png)
+![Ekran Resmi 2023-06-25 00.07.26](photos/Ekran Resmi 2023-06-25 00.07.26.png)
 
-![](photos/20230625_000741_Ekran_Resmi 2023-06-25 00.07.26.png)
+![Ekran Resmi 2023-06-25 00.05.26](photos/Ekran Resmi 2023-06-25 00.05.26.png)
+
+# The collection
 
 
-* [Wallpapers](blob/main/wallpapers)
-* [Website Themes](tree/main/websites)
-* [Application Themes](tree/main/applications)
+* [Wallpapers](wallpapers)
+* [Website Themes](websites)
+* [Application Themes](applications)
