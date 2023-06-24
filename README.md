@@ -8,9 +8,9 @@ It is a retro groove color scheme for Vim.
 
 It looks like this.
 
-![Ekran Resmi 2023-06-25 00.07.26](photos/Ekran Resmi 2023-06-25 00.07.26.png)
+![](https://raw.githubusercontent.com/tyfnacici/gruvbox-workflow/main/photos/Ekran%20Resmi%202023-06-25%2000.05.26.png)
 
-![Ekran Resmi 2023-06-25 00.05.26](photos/Ekran Resmi 2023-06-25 00.05.26.png)
+![](https://raw.githubusercontent.com/tyfnacici/gruvbox-workflow/main/photos/Ekran%20Resmi%202023-06-25%2000.07.26.png)
 
 # The collection
 
