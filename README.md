@@ -14,5 +14,5 @@ It looks like this.
 
 
 * [Wallpapers](blob/main/wallpapers)
-* [Website Themes](websites)
+* [Website Themes](tree/main/websites)
 * [Application Themes](tree/main/applications)
